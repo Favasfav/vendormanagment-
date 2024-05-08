@@ -8,7 +8,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your/repository.git
+git clone https://github.com/Favasfav/vendormanagment-.git
 Install dependencies:
 bash
 Copy code
